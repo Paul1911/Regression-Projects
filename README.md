@@ -13,7 +13,8 @@ This is my first submission of the [House Price Regression Challenge](https://ww
 
 This is a workbook a friend of mine was confronted with and asked me for tutoring. Usually I do not post exercises here. However as I was helping my friend without having access to his lecture resources, this seemed challenging in parts and triggered my interest to puzzle over certain points. I completed this in October 2020. 
 
-### Network Planning DHL Europe 
+### [Network Planning DHL Europe](https://github.com/Paul1911/Data-Science-and-AI/tree/main/Projects%20%26%20Exercises/Network%20Planning%20DHL%20Europe)
 
 This is a challenge from my Bachelors of International Aviation Management from 2017. The goal was to develop a flight plan for DHL out of their (at the time) new hub Leipzig. This comprised planning for the transport of packages on 173x172 OnDs via train and Road Feeder Services while adhering to time constraints for pickup, delivery, slots @LEJ, etc. By that time, we completed the project without numerical optimization methods (as expected by the university). However, I quickly realized that this is nothing but an optimization problem with many constraints, minimizing cost. Therefore it must be able to solve it systematically. 
-This is the long term aim of this project. In this context, I wrote a small program in 2018 using a Google API to measure the street distances for all ca. 30000 OnDs. Please also find the exact project description and setup ideas here.
+This is the long term aim of this project. In this context, I wrote a small program in 2018 using a Google API to measure the street distances for all ca. 30000 OnDs. Please also find the exact project description and my modelling ideas [here](https://github.com/Paul1911/Data-Science-and-AI/tree/main/Projects%20%26%20Exercises/Network%20Planning%20DHL%20Europe). 
+I have not worked on this problem for a longer time, and it is also not high priority as this is more of an operations research problem. However I plan on coming back to it once I have a better foundation in Data Science & AI methods. 
